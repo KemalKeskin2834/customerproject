@@ -1,4 +1,4 @@
-# Customer Project
+# **Customer Project**
 
 ## purpose
 It is a bank customer project. In our project, we have separated corporate and individual customers. These two customer classes inherit from the main customer class
